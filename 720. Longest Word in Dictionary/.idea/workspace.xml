@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96f2bd72-b736-4b19-81b4-4695210b70a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_trie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trienode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../104. Maximum Depth of Binary Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../104. Maximum Depth of Binary Tree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../703. Kth Largest Element in a Stream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../703. Kth Largest Element in a Stream/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../938. Range Sum of BST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../938. Range Sum of BST/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="96f2bd72-b736-4b19-81b4-4695210b70a7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,15 +11,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_solution.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
@@ -100,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -125,6 +107,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -233,9 +218,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_solution_TestSolution - 2019.05.11 at 10h 06m 35s.xml">
-      <configuration name="Unittests for test_solution.TestSolution" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_solution_TestSolution - 2019.05.11 at 10h 07m 12s.xml">
       <configuration name="Unittests for test_solution.TestSolution" configurationId="tests" />
     </history-entry>
@@ -263,18 +245,21 @@
     <history-entry file="Unittests_for_test_solution_TestSolution_test_longestWord_example_3 - 2019.05.11 at 10h 47m 53s.xml">
       <configuration name="Unittests for test_solution.TestSolution.test_longestWord_example_3" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_solution_py - 2019.05.11 at 11h 02m 28s.xml">
+      <configuration name="Unittests in test_solution.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="952" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.40166494" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39958376" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39958376" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -328,6 +313,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -335,13 +327,6 @@
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>
