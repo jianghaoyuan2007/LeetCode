@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12bc7450-e7a2-4399-bf71-aad8e0479fb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../429. N-ary Tree Level Order Traversal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../783. Minimum Distance Between BST Nodes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../938. Range Sum of BST/.idea/938. Range Sum of BST.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../938. Range Sum of BST/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../938. Range Sum of BST/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../938. Range Sum of BST/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../938. Range Sum of BST/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../938. Range Sum of BST/leetcodesupport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../938. Range Sum of BST/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../938. Range Sum of BST/test_solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../938. Range Sum of BST/treenode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../997. Find the Town Judge/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../104. Maximum Depth of Binary Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../104. Maximum Depth of Binary Tree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../349. Intersection of Two Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../349. Intersection of Two Arrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../429. N-ary Tree Level Order Traversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../429. N-ary Tree Level Order Traversal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../783. Minimum Distance Between BST Nodes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../783. Minimum Distance Between BST Nodes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../997. Find the Town Judge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../997. Find the Town Judge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../938. Range Sum of BST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../938. Range Sum of BST/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -271,6 +255,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2496977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
